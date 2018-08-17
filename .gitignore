@@ -5,3 +5,6 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
+
+
+pa_autoconfigure_django.py https://github.com/natalie01/my-first-blog.git
